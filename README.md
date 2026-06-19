@@ -1,6 +1,7 @@
 # Syed Imon Rizvi, MBA, PMP, PSM II, PAL I
 **Senior Agile Program Manager, Scrum Master & IT Project Director**  
-*14+ Years of Enterprise Agility, Digital Transformations, and Business Value Delivery*
+*14+ Years of Enterprise Agility, Digital Transformations, and Business Value Delivery*  
+*Specializing in SAP Systems, Temenos Core Banking, Temenos Triple A Plus (TAP), Cloud Infrastructures (AWS/Azure), and DevOps Pipelines*
 
 ---
 
@@ -15,7 +16,7 @@
 ## 🚀 Portfolio Overview
 Welcome to my Agile Scrum and IT Project Management portfolio. This repository showcases realistic, high-fidelity artifacts modeling the **FinConnect API Integrations** platform—a Java/Spring Boot microservice designed to aggregate bank account and transaction data from third-party APIs (such as Plaid and Stripe). 
 
-The documents in this repository are engineered to demonstrate how I apply **advanced Agile principles (PSM II)**, **Evidence-Based Management (PAL I)**, **rigorous project governance (PMP)**, and **business/economic strategy (MBA)** to solve real-world organizational bottlenecks, lead self-managing teams, and deliver measurable business outcomes.
+The documents in this repository are engineered to demonstrate how I apply **advanced Agile principles (PSM II)**, **Evidence-Based Management (PAL I)**, **rigorous project governance (PMP)**, and **business/economic strategy (MBA)** across complex fintech platforms (Temenos, Temenos Triple A Plus) and enterprise ecosystems (SAP) to solve real-world organizational bottlenecks, lead self-managing teams, and deliver measurable business outcomes.
 
 ---
 
