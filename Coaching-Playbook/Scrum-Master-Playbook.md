@@ -101,3 +101,37 @@ Empirical processes cannot function without high levels of **Psychological Safet
 *   **Active Listening (Coaching Model)**: Practice level-three active listening during 1-on-1 coaching sessions, focusing on developer concerns, motivation factors, and team friction points.
 *   **Thomas-Kilmann Conflict Mode Instrument (TKI)**: Apply TKI principles to navigate team conflicts. Guide the team from *competing* or *avoiding* conflict towards *collaborating* and *compromising*, resolving internal friction before it impacts sprint progress.
 *   **Servant Leadership**: Move away from giving directives. Instead, ask the team: *"What tools or changes do you need from me to make your work easier today?"*
+
+---
+
+## 🌿 6. The Aligile Ethos: Reclaiming the Soul of Work
+
+As detailed in my book, *Aligile: The Soul of Work*, modern Agile has frequently devolved into a "hollow" practice—highly focused on mechanical rituals, checklists, and cargo-cult compliance while losing its original collaborative spirit. 
+
+To bridge this gap, I formulated the **Aligile Ethos**—a philosophical and operational framework that injects wisdom, justice, and moral integrity back into software delivery and team dynamics.
+
+### 📋 The Six Pillars of the Aligile Manifesto
+
+1.  **Wisdom before Prescription (Taslīm → Yaqīn)**: We value deep understanding of purpose and context over the blind execution of framework guidelines.
+2.  **Conviction as Collective Purpose (Yaqīn)**: Agile execution is powered by team conviction and alignment with value, not arbitrary speed metrics.
+3.  **Truth over Assumptions (Tasdīq)**: We treat metrics and feedback as courageous, evidence-based seekings of reality.
+4.  **Public Promise as Accountability (Iqrār)**: Our sprint commits and backlogs are public covenants of trust, visible to peers and stakeholders.
+5.  **Integrity in Completion (Adāʾ)**: "Done" is not a compliance check. It is the honorable discharge of our promises, ensuring quality is treated with moral weight.
+6.  **Meaningful Action (ʿAmal)**: All process loops must yield tangible goodness, delivering user value while actively avoiding systemic harm.
+
+### 📜 The Twelve Principles of Aligile
+
+In my coaching engagements, I lead organizations to operationalize the **Twelve Principles of Aligile**:
+*   **Principle 1: Wisdom Before Prescription** – Focus on "why" a tool is used rather than just "how" to execute it.
+*   **Principle 2: Consultation as Guidance** – Foster collaborative, multi-discipline decision-making processes.
+*   **Principle 3: Justice as the Foundation** – Maintain capacity limits; shield teams from overloading to protect quality.
+*   **Principle 4: Truth Over Assumption** – Validate environment constraints and technical spikes before starting integrations.
+*   **Principle 5: Forbearance in Challenge** – Direct team friction into cooperative resolution channels (TKI).
+*   **Principle 6: Conviction Through Shared Purpose** – Establish strong, unified product goal alignment.
+*   **Principle 7: Accountability Through Public Promise** – Ensure dashboards and blockers are transparently tracked.
+*   **Principle 8: Integrity in Fulfillment** – Enforce the Definition of Done (DoD) without taking quality shortcuts.
+*   **Principle 9: Outcomes Over Outputs** – Focus metrics on delivered value (EBM Key Value Areas) rather than story count.
+*   **Principle 10: Sustainable Endurance** – Build a predictable, healthy pace of delivery.
+*   **Principle 11: Humility Over Arrogance** – Eradicate top-down command structures in favor of serving the developers.
+*   **Principle 12: Systems Above Ego** – Design organizational processes to serve the collective good, not individual control.
+
