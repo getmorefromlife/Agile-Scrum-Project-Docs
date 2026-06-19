@@ -52,6 +52,12 @@ Demonstrates JIRA customization and progress visualization.
     *   *Demonstrates*: Single Source of Truth (SSOT) configuration and dashboard governance.
 *   🖼️ **[jira-burndown-chart.png](JIRA-Dashboards/jira-burndown-chart.png)**: Visual Sprint 1 Burndown chart showing the real-world impact of the rate-limiting blocker and the subsequent path to resolution.
 
+### 🧠 5. Scrum Master Coaching Playbook & Facilitation Guide
+Demonstrates 14+ years of Agile coaching experience, resolving systemic organizational anti-patterns, and enterprise scaling frameworks.
+*   📄 **[Scrum-Master-Playbook.md](Coaching-Playbook/Scrum-Master-Playbook.md)**: A comprehensive guide covering ceremony facilitation, a detailed Scrum Anti-patterns Resolution Matrix, enterprise scaling frameworks ("Keep the Core Clean" for SAP BTP integrations), Evidence-Based Management (EBM), and team psychological safety checklist.
+    *   *Demonstrates*: PSM II advanced serving-leadership, PAL I value-driven coaching, and MBA organizational alignments.
+
+
 ---
 
 ## 💼 Connect with Me
