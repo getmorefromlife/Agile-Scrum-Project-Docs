@@ -57,6 +57,6 @@ Demonstrates JIRA customization and progress visualization.
 ## 💼 Connect with Me
 *   **LinkedIn**: [https://www.linkedin.com/in/syedimonrizvi](https://www.linkedin.com/in/syedimonrizvi)
 *   **GitHub**: [https://github.com/getmorefromlife](https://github.com/getmorefromlife)
-*   **Email**: [imon.rizvi@gmail.com](mailto:imon.rizvi@gmail.com) *(Optional contact)*
+*   **Email**: [syedimonrizvipmp@gmail.com](mailto:syedimonrizvipmp@gmail.com)
 
 *“Fostering enterprise agility is not just about adopting frameworks—it is about instilling a culture of continuous learning, empirical feedback, and relentless focus on delivering strategic business value.”*
